@@ -1,0 +1,5 @@
+train: ../vehicle-data/data/train
+val: ../vehicle-data/data/valid
+
+nc: 8
+names: ['car','person','bus','cng','bike','rickshaw','truck','bicycle']
